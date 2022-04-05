@@ -6,7 +6,7 @@
   </a>
 </p>
 
-LIVE DEPLOYMENT LINK: https://sheltered-atoll-68434.herokuapp.com/movies
+LIVE DEPLOYMENT LINK: https://starter-movie-front-end-omega.vercel.app/
 
 Movie API project for Thinkful Software Engineering curriculum.
 
